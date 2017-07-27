@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "36585a24-2806-480f-8882-42dde1814bfa++2531",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "36585a24-2806-480f-8882-42dde1814bfa++2531" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "36585a24-2806-480f-8882-42dde1814bfa++2531" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7D2DD6AC-B8DA-4881-9AAE-4C0761B80BE2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "36585a24-2806-480f-8882-42dde1814bfa++2531" : "Animated%20Web%20View\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "animated Web View",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "animated Web View\/animated Web View.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/svn.slickapps.com.au\/repos\/apps",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "36585a24-2806-480f-8882-42dde1814bfa++2531"
+    }
+  ]
+}
